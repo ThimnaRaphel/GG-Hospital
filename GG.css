@@ -1,0 +1,372 @@
+.main-div{
+    display: flex;
+    width: 100%;
+}
+.main-div2{
+    display: flex;
+    width: 100%;
+}
+
+.div1{
+    flex:1;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding: 5px;
+}
+.div2{
+    flex:1;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding: 5px;
+}
+.div3{
+    flex:1;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding: 5px;
+}
+.div4{
+    flex:1;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding: 5px;
+}
+.div5{
+    flex:1;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding: 5px;
+}
+.div6{
+    flex:1;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding: 5px;
+
+}
+.Book{
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 75%;
+    position: absolute;
+    left: 20px;
+    top: 600px;
+    margin-left: 150px;
+    background-color: white;
+    padding:10px;
+    
+}
+.image{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+#divone{
+    width: 250px;
+    height: 40px;
+    border-radius: 7%;
+    margin-right: 50px;
+}
+#divtwo{
+    width: 250px;
+    height: 40px;
+    border-radius: 7%;
+    margin-right: 50px;
+}
+#divthree{
+    width: 250px;
+    height: 40px;
+    border-radius: 7%;
+}
+#divfour{
+    width: 253px;
+    height: 45px;
+    border-radius: 7%;
+}
+#divfive{
+    width: 253px;
+    height: 45px;
+    border-radius: 7%;
+}
+#divsix{
+    width: 250px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 7%;
+    background-color:#17C1A3;
+    color: white;
+}
+#divseven{
+    width: 200px;
+    height: 50px;
+    border: 1px solid white;
+    background-color:#17C1A3;
+    color: white;
+}
+.second-Container{
+    top: 100px;
+    margin-left: 150px;
+    display: flex;
+}
+.imgone{
+    flex: 1;
+    margin-top: 60px;
+    margin-left: 0px;
+}
+.imgtwo{
+    flex:1;
+    margin-top: 60px;
+}
+.imgthree{
+    flex: 1;
+    margin-top: 60px;
+    margin-right: 130px;
+}
+.thirdpage{
+display: flex;
+background-color:#E8F9F6;
+margin-left: 150px;
+margin-right: 150px;
+}
+.imgthird{
+  flex: 1;
+  margin-left: 100px;
+  height: 770px;
+  width: 1690px;
+}
+.thirdtxt{
+   flex: 1;
+   margin-top: 170px;
+   font: Inter;
+}
+.box{
+    display: flex;
+    line-height: 43px;
+    margin-left: 0;
+}
+.point{
+    flex: 4;
+    font-size: larger;
+}
+.icon{
+    margin-top: 15px;
+    flex: 0.5;
+    line-height: 63px;
+}
+.headfour{
+    display: flex;
+    margin-bottom: 100px;
+}
+.docone{
+flex:1;
+margin-left: 150px;
+}
+.doctwo{
+flex:1;
+}
+.docthree{
+flex:1;
+}
+.docfour{
+flex:1;
+margin-right: 100px;
+}
+#mybtn{
+    width: 179px; 
+    height: 55px; 
+    margin-left: 900px;
+    background-color:#17C1A3;
+    margin-top: 0%;
+    border: 1px solid white;
+    color: white;
+    border-radius: 6px;
+}
+.five{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+}
+.picone{
+    flex: 1;
+}
+.pictwo{
+    flex: 1;
+}
+.picthree{
+    flex:1;
+}
+.six{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+}
+.piccone{
+    flex: 1;
+}
+.picctwo{
+    flex: 1;
+}
+.piccthree{
+    flex:1;
+}
+.whitebox{
+    height: 324px;
+    width: 1657px;
+    border:1px solid black;
+    margin-left: 150px;
+    margin-top: 0;
+}
+.lastpage{
+    display: flex;
+    background-color: #F9FAFA;
+}
+.lastlogo{
+    flex: 1;
+    margin-left: 150px;
+}
+.midtext{
+    flex:1;
+    text-align: center;
+}
+.lasttext{
+    flex: 1;
+    margin-bottom: 50px;
+}
+.one{
+    display: flex;
+}
+.two{
+    flex: 1;
+    margin-top: 90px;
+}
+.three{
+    flex: 1;
+    margin-top: 90px;
+}
+.footer-section-one {
+    display : flex;
+    margin-left: 150px;
+    font-size: 20px;
+  }
+  
+  .footer-section-one-left-panel {
+    flex : 2;
+    margin-left : 70px;
+  }
+  
+  .footer-hospital-logo {
+    padding-bottom : 20px;
+  }
+  
+  .footer-hospital-info {
+    font-size: 14px;
+    opacity : 90%;
+    margin-bottom : 40px;
+  }
+  
+  .footer-section-one-right-panel {
+    flex : 3;
+    text-align: center;
+    margin-left : 100px;
+    display : flex;
+    margin-top : 13px;
+  }
+  
+  .footer td,th,tr {
+    text-align : left;
+    width : 150px;
+    height : 50px;
+    box-sizing: border-box;
+  }
+  
+  
+  .footer-table-one {
+    margin-right : 40px;
+  }
+  
+  .footer-hr {
+    margin-left : 150px;
+    margin-right : 90px;
+  }
+  
+  .footer-section-two {
+    display : flex;
+    margin-left : 150px;
+    margin-top : 25px;
+    line-height :25px;
+    font-size: 20px;
+  }
+  
+  .footer-address {
+    flex : 1.5;
+    margin-right :0%;
+    margin-left: 100px;
+  }
+  
+  .footer-phone {
+    flex : 1;
+    margin-left : 0%;
+  }
+  
+  .footer-mail {
+    flex : 1;
+    margin-left : -30px;
+  }
+  
+  .footer-socials {
+    flex : 1;
+  }
+  
+  .socials-caption {
+    font-weight : bold;
+    
+  }
+  
+  .footer-address-data {
+    font-size : 13px;
+  }
+  
+  .footer-section-three {
+    font-size : 12px;
+    opacity : 70%;
+    padding-top : 40px;
+    padding-bottom : 10px;
+  }
+  
+  .aboutgg {
+    text-decoration: none;
+    color : black;
+  }
+  
+  .aboutgg:visited {
+    color : black;
+    text-decoration: none;
+  }
+#whiteboxbtn{
+    width: 154px;
+    height: 55px;
+    margin-left: 1400px;
+    border:1px solid white;
+    background-color: #17C1A3;
+    border-radius: 6px;
+    color: white;
+}
+.whitebox{
+    margin-top: 0%;
+}
+#divewhite{
+    margin-left: 1200px;
+}
+.side{
+    display: flex;
+}
+.sideone{
+    flex: 1;
+    margin-bottom: 0%;
+}
+.sidetwo{
+    flex: 1;
+    margin-top: 2%;
+    margin-left: 5%;
+}
