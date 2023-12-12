@@ -17,7 +17,7 @@ Newsletter
 
 Screenshot of the design:
 
-![ScreenShot](D:\GG-website\SS_of_GG\SS-GG.jpeg)
+![ScreenShot](images/SS-GG.jpeg)
 
 
 
