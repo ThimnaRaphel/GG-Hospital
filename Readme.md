@@ -5,15 +5,15 @@ During the training of HTML and CSS, I designed the home page of GG-Hospital web
 
 The page has the following contents included:
 
-Navigation Bar
-Book Appointment
-Doctors Listed
-Departments Listed
-Why GG is better section
-Facilities and Activities
-You May Be Interested In section
-Footer
-Newsletter
+Navigation Bar,
+Book Appointment,
+Doctors Listed,
+Departments Listed,
+Why GG is better section,
+Facilities and Activities,
+You May Be Interested In section,
+Footer,
+Newsletter.
 
 Screenshot of the design:
 
